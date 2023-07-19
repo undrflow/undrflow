@@ -14,7 +14,7 @@ I work with a variety of technologies, including:
 
 I am currently learning:
 
-<img src="https://commons.wikimedia.org/wiki/File:ISO_C%2B%2B_Logo.svg" alt="C++" width:"100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png?20170928190710" alt="C++" width:"100">
 
 
 ## Projects
