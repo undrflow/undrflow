@@ -14,7 +14,7 @@ I work with a variety of technologies, including:
 
 I am currently learning:
 
-<img src="https://raw.githubusercontent.com/github/explore/180320cffc25f4ed1bbdfd33d4db3a66eeeeb358/topics/cpp/cpp.png" alt="C++" width:"100">
+<img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" alt="C++" width:"100">
 
 
 ## Projects
